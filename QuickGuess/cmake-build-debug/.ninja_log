@@ -1,0 +1,20 @@
+# ninja log v5
+12	454	7130461855944586	CMakeFiles/QuickGuess.dir/CompPlayer.cpp.obj	6dcbb09efa2d66ff
+7	465	7130461856074248	CMakeFiles/QuickGuess.dir/Player.cpp.obj	f4ec5c6a53284696
+0	551	7130461856931950	CMakeFiles/QuickGuess.dir/main.cpp.obj	a7713cdef22d54ca
+551	662	7130461858009315	QuickGuess.exe	e4c55bc8dcf8a916
+8	349	7130462586971691	CMakeFiles/QuickGuess.dir/CompPlayer.cpp.obj	6dcbb09efa2d66ff
+4	402	7130462587480403	CMakeFiles/QuickGuess.dir/main.cpp.obj	a7713cdef22d54ca
+403	518	7130462588622685	QuickGuess.exe	e4c55bc8dcf8a916
+7	342	7130462699618139	CMakeFiles/QuickGuess.dir/CompPlayer.cpp.obj	6dcbb09efa2d66ff
+3	396	7130462700154363	CMakeFiles/QuickGuess.dir/main.cpp.obj	a7713cdef22d54ca
+397	513	7130462701290862	QuickGuess.exe	e4c55bc8dcf8a916
+6	389	7130464660293998	CMakeFiles/QuickGuess.dir/CompPlayer.cpp.obj	6dcbb09efa2d66ff
+3	438	7130464660782680	CMakeFiles/QuickGuess.dir/main.cpp.obj	a7713cdef22d54ca
+438	547	7130464661831486	QuickGuess.exe	e4c55bc8dcf8a916
+5	410	7130465310078119	CMakeFiles/QuickGuess.dir/main.cpp.obj	a7713cdef22d54ca
+410	561	7130465311574131	QuickGuess.exe	e4c55bc8dcf8a916
+3	373	7130465546341114	CMakeFiles/QuickGuess.dir/main.cpp.obj	a7713cdef22d54ca
+374	480	7130465547381501	QuickGuess.exe	e4c55bc8dcf8a916
+4	386	7130466219549951	CMakeFiles/QuickGuess.dir/main.cpp.obj	a7713cdef22d54ca
+387	497	7130466220639571	QuickGuess.exe	e4c55bc8dcf8a916
